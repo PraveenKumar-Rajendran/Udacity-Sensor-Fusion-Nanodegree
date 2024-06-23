@@ -1,0 +1,3318 @@
+detectorType: SHITOMASI
+descriptorType: BRISK
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 12.8233 ms
+Number of keypoints in the defined vehicle rectangle: 125
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.26434 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 11.7111 ms
+Number of keypoints in the defined vehicle rectangle: 118
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.55966 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=125 matches in 0.487099 ms
+# keypoints removed = 30
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 12.4779 ms
+Number of keypoints in the defined vehicle rectangle: 123
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.63265 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=118 matches in 0.276691 ms
+# keypoints removed = 30
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 12.3885 ms
+Number of keypoints in the defined vehicle rectangle: 120
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.95041 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=123 matches in 0.30941 ms
+# keypoints removed = 43
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 11.5929 ms
+Number of keypoints in the defined vehicle rectangle: 120
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.8653 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=120 matches in 0.28669 ms
+# keypoints removed = 30
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 11.9187 ms
+Number of keypoints in the defined vehicle rectangle: 113
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.80929 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=120 matches in 0.33942 ms
+# keypoints removed = 37
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 20.881 ms
+Number of keypoints in the defined vehicle rectangle: 114
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.68264 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=113 matches in 0.27927 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 15.7137 ms
+Number of keypoints in the defined vehicle rectangle: 123
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.61183 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=114 matches in 0.26596 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 13.3383 ms
+Number of keypoints in the defined vehicle rectangle: 111
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.49783 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=123 matches in 0.26407 ms
+# keypoints removed = 37
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 16.9943 ms
+Number of keypoints in the defined vehicle rectangle: 112
+#2 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 1.50226 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=111 matches in 0.27818 ms
+# keypoints removed = 29
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 14.0415 ms
+Average time for descriptor: 284.397 ms
+Average time for matcher: 0.399201 ms
+Average number of keypoints: 117.9
+Average number of matches: 85.5556
+detectorType: HARRIS
+descriptorType: BRIEF
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 115 keypoints with applied nms in 12.4439 ms
+Number of keypoints in the defined vehicle rectangle: 17
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.19347 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 98 keypoints with applied nms in 9.56688 ms
+Number of keypoints in the defined vehicle rectangle: 14
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.50035 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=17 matches in 0.108419 ms
+# keypoints removed = 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 113 keypoints with applied nms in 9.37279 ms
+Number of keypoints in the defined vehicle rectangle: 18
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.52681 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=14 matches in 0.04698 ms
+# keypoints removed = 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 121 keypoints with applied nms in 9.06426 ms
+Number of keypoints in the defined vehicle rectangle: 21
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.55305 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=18 matches in 0.05229 ms
+# keypoints removed = 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 160 keypoints with applied nms in 11.499 ms
+Number of keypoints in the defined vehicle rectangle: 26
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.52905 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=21 matches in 0.048691 ms
+# keypoints removed = 1
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 383 keypoints with applied nms in 16.4302 ms
+Number of keypoints in the defined vehicle rectangle: 43
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.21184 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=26 matches in 0.05787 ms
+# keypoints removed = 2
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 85 keypoints with applied nms in 10.2347 ms
+Number of keypoints in the defined vehicle rectangle: 18
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.55215 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=43 matches in 0.07298 ms
+# keypoints removed = 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 210 keypoints with applied nms in 9.76707 ms
+Number of keypoints in the defined vehicle rectangle: 31
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.1894 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=18 matches in 0.05097 ms
+# keypoints removed = 2
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 171 keypoints with applied nms in 9.4844 ms
+Number of keypoints in the defined vehicle rectangle: 26
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.17481 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=31 matches in 0.05421 ms
+# keypoints removed = 7
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 281 keypoints with applied nms in 25.5361 ms
+Number of keypoints in the defined vehicle rectangle: 34
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.58968 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=26 matches in 0.054 ms
+# keypoints removed = 2
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 12.737 ms
+Average time for descriptor: 0.427927 ms
+Average time for matcher: 0.0910189 ms
+Average number of keypoints: 24.8
+Average number of matches: 19.3333
+detectorType: FAST
+descriptorType: BRIEF
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1824 keypoints in 0.74313 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.29008 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1832 keypoints in 0.63705 ms
+Number of keypoints in the defined vehicle rectangle: 152
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.02689 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.30967 ms
+# keypoints removed = 30
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1810 keypoints in 0.639201 ms
+Number of keypoints in the defined vehicle rectangle: 150
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.91385 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=152 matches in 0.244231 ms
+# keypoints removed = 22
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1817 keypoints in 0.62837 ms
+Number of keypoints in the defined vehicle rectangle: 155
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.49259 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=150 matches in 0.20221 ms
+# keypoints removed = 32
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1793 keypoints in 0.602019 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.03611 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=155 matches in 0.207729 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1796 keypoints in 0.58369 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.48215 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.21022 ms
+# keypoints removed = 41
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1788 keypoints in 0.56724 ms
+Number of keypoints in the defined vehicle rectangle: 156
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.91958 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.24603 ms
+# keypoints removed = 25
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1695 keypoints in 0.60257 ms
+Number of keypoints in the defined vehicle rectangle: 150
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.11445 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=156 matches in 0.22751 ms
+# keypoints removed = 25
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1749 keypoints in 0.60785 ms
+Number of keypoints in the defined vehicle rectangle: 138
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.44086 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=150 matches in 0.19675 ms
+# keypoints removed = 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1770 keypoints in 0.59662 ms
+Number of keypoints in the defined vehicle rectangle: 143
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.02228 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=138 matches in 0.21071 ms
+# keypoints removed = 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 0.650957 ms
+Average time for descriptor: 0.902181 ms
+Average time for matcher: 0.303247 ms
+Average number of keypoints: 149.1
+Average number of matches: 122.556
+detectorType: BRISK
+descriptorType: BRIEF
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2757 keypoints in 32.9851 ms
+Number of keypoints in the defined vehicle rectangle: 264
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.1831 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2777 keypoints in 32.8634 ms
+Number of keypoints in the defined vehicle rectangle: 282
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.73076 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=264 matches in 0.52683 ms
+# keypoints removed = 85
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2741 keypoints in 39.1344 ms
+Number of keypoints in the defined vehicle rectangle: 282
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.67277 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=282 matches in 0.408779 ms
+# keypoints removed = 76
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2735 keypoints in 31.473 ms
+Number of keypoints in the defined vehicle rectangle: 277
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.6836 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=282 matches in 0.4075 ms
+# keypoints removed = 94
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2757 keypoints in 31.4584 ms
+Number of keypoints in the defined vehicle rectangle: 297
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.71014 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=277 matches in 0.44479 ms
+# keypoints removed = 96
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2695 keypoints in 31.2403 ms
+Number of keypoints in the defined vehicle rectangle: 279
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.6974 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=297 matches in 0.42666 ms
+# keypoints removed = 109
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2715 keypoints in 33.0316 ms
+Number of keypoints in the defined vehicle rectangle: 289
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.69585 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=279 matches in 0.47391 ms
+# keypoints removed = 83
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2628 keypoints in 32.1375 ms
+Number of keypoints in the defined vehicle rectangle: 272
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.67462 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=289 matches in 0.509919 ms
+# keypoints removed = 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2639 keypoints in 31.2217 ms
+Number of keypoints in the defined vehicle rectangle: 266
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.92183 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=272 matches in 0.47212 ms
+# keypoints removed = 83
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2672 keypoints in 38.1194 ms
+Number of keypoints in the defined vehicle rectangle: 254
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.62291 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=266 matches in 0.39247 ms
+# keypoints removed = 78
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 322.827 ms
+Average time for descriptor: 0.802063 ms
+Average time for matcher: 0.54456 ms
+Average number of keypoints: 276.2
+Average number of matches: 191.667
+detectorType: ORB
+descriptorType: BRIEF
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 6.6388 ms
+Number of keypoints in the defined vehicle rectangle: 92
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.897709 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 6.01979 ms
+Number of keypoints in the defined vehicle rectangle: 102
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.410111 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=92 matches in 0.234079 ms
+# keypoints removed = 43
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.43351 ms
+Number of keypoints in the defined vehicle rectangle: 106
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.446521 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=102 matches in 0.22699 ms
+# keypoints removed = 58
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.11618 ms
+Number of keypoints in the defined vehicle rectangle: 113
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.437439 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=106 matches in 0.27169 ms
+# keypoints removed = 60
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.69801 ms
+Number of keypoints in the defined vehicle rectangle: 109
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.43639 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=113 matches in 0.16369 ms
+# keypoints removed = 51
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.18971 ms
+Number of keypoints in the defined vehicle rectangle: 125
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.44306 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=109 matches in 0.19099 ms
+# keypoints removed = 56
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.28357 ms
+Number of keypoints in the defined vehicle rectangle: 130
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.45033 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=125 matches in 0.18507 ms
+# keypoints removed = 44
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.39156 ms
+Number of keypoints in the defined vehicle rectangle: 129
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.44488 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=130 matches in 0.18338 ms
+# keypoints removed = 59
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.76575 ms
+Number of keypoints in the defined vehicle rectangle: 127
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.444299 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=129 matches in 0.214409 ms
+# keypoints removed = 44
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.52102 ms
+Number of keypoints in the defined vehicle rectangle: 128
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.48422 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=127 matches in 0.21048 ms
+# keypoints removed = 60
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 5.64377 ms
+Average time for descriptor: 0.51242 ms
+Average time for matcher: 0.261701 ms
+Average number of keypoints: 116.1
+Average number of matches: 62
+detectorType: SIFT
+descriptorType: BRIEF
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1438 keypoints in 166.028 ms
+Number of keypoints in the defined vehicle rectangle: 138
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.47837 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1371 keypoints in 185.721 ms
+Number of keypoints in the defined vehicle rectangle: 132
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.48566 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=138 matches in 0.24775 ms
+# keypoints removed = 52
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1380 keypoints in 186.879 ms
+Number of keypoints in the defined vehicle rectangle: 124
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.46918 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=132 matches in 0.18882 ms
+# keypoints removed = 50
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1335 keypoints in 188.858 ms
+Number of keypoints in the defined vehicle rectangle: 137
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.51738 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=124 matches in 0.20189 ms
+# keypoints removed = 48
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1305 keypoints in 187.739 ms
+Number of keypoints in the defined vehicle rectangle: 134
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.4985 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=137 matches in 0.1908 ms
+# keypoints removed = 52
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1370 keypoints in 186.247 ms
+Number of keypoints in the defined vehicle rectangle: 140
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.50515 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=134 matches in 0.21931 ms
+# keypoints removed = 62
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1396 keypoints in 189.279 ms
+Number of keypoints in the defined vehicle rectangle: 137
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.52177 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=140 matches in 0.19073 ms
+# keypoints removed = 66
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1382 keypoints in 188.155 ms
+Number of keypoints in the defined vehicle rectangle: 148
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.59787 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=137 matches in 0.25045 ms
+# keypoints removed = 57
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1463 keypoints in 186.577 ms
+Number of keypoints in the defined vehicle rectangle: 159
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.53381 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=148 matches in 0.279101 ms
+# keypoints removed = 76
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1422 keypoints in 187.699 ms
+Number of keypoints in the defined vehicle rectangle: 137
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.56087 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=159 matches in 0.2172 ms
+# keypoints removed = 71
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 185.395 ms
+Average time for descriptor: 0.541354 ms
+Average time for matcher: 0.289205 ms
+Average number of keypoints: 138.6
+Average number of matches: 79.4444
+detectorType: AKAZE
+descriptorType: BRIEF
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 179.192 ms
+Number of keypoints in the defined vehicle rectangle: 166
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.53831 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1327 keypoints in 193.758 ms
+Number of keypoints in the defined vehicle rectangle: 157
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.44733 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=166 matches in 0.26293 ms
+# keypoints removed = 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1311 keypoints in 199.426 ms
+Number of keypoints in the defined vehicle rectangle: 161
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.545439 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=157 matches in 0.279181 ms
+# keypoints removed = 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 211.563 ms
+Number of keypoints in the defined vehicle rectangle: 155
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.452 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=161 matches in 0.23234 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1360 keypoints in 193.049 ms
+Number of keypoints in the defined vehicle rectangle: 163
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.6009 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=155 matches in 0.248 ms
+# keypoints removed = 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1347 keypoints in 277.949 ms
+Number of keypoints in the defined vehicle rectangle: 164
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.70034 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=163 matches in 0.27516 ms
+# keypoints removed = 25
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1363 keypoints in 204.975 ms
+Number of keypoints in the defined vehicle rectangle: 173
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 1.32586 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=164 matches in 0.2216 ms
+# keypoints removed = 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 197.072 ms
+Number of keypoints in the defined vehicle rectangle: 175
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.54409 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=173 matches in 0.23205 ms
+# keypoints removed = 22
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1357 keypoints in 189.995 ms
+Number of keypoints in the defined vehicle rectangle: 177
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.50515 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=175 matches in 0.23048 ms
+# keypoints removed = 26
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 192.396 ms
+Number of keypoints in the defined vehicle rectangle: 179
+#2 : DETECT KEYPOINTS done
+BRIEF descriptor extraction in 0.50845 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=177 matches in 0.284039 ms
+# keypoints removed = 25
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 204.007 ms
+Average time for descriptor: 0.950504 ms
+Average time for matcher: 0.329359 ms
+Average number of keypoints: 167
+Average number of matches: 141.778
+detectorType: SHITOMASI
+descriptorType: ORB
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 12.3954 ms
+Number of keypoints in the defined vehicle rectangle: 125
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.65274 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 10.3934 ms
+Number of keypoints in the defined vehicle rectangle: 118
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.7516 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=125 matches in 0.25229 ms
+# keypoints removed = 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 10.343 ms
+Number of keypoints in the defined vehicle rectangle: 123
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.59772 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=118 matches in 0.20195 ms
+# keypoints removed = 16
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 9.97166 ms
+Number of keypoints in the defined vehicle rectangle: 120
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.598059 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=123 matches in 0.18199 ms
+# keypoints removed = 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 29.0285 ms
+Number of keypoints in the defined vehicle rectangle: 120
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.73339 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=120 matches in 0.20469 ms
+# keypoints removed = 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 10.2501 ms
+Number of keypoints in the defined vehicle rectangle: 113
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.728139 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=120 matches in 0.20104 ms
+# keypoints removed = 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 10.3445 ms
+Number of keypoints in the defined vehicle rectangle: 114
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.96374 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=113 matches in 0.19025 ms
+# keypoints removed = 16
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 10.122 ms
+Number of keypoints in the defined vehicle rectangle: 123
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.710499 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=114 matches in 0.17874 ms
+# keypoints removed = 16
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 10.0302 ms
+Number of keypoints in the defined vehicle rectangle: 111
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.74852 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=123 matches in 0.16394 ms
+# keypoints removed = 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 11.6367 ms
+Number of keypoints in the defined vehicle rectangle: 112
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.61968 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=111 matches in 0.17493 ms
+# keypoints removed = 14
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 12.4921 ms
+Average time for descriptor: 0.736117 ms
+Average time for matcher: 0.251256 ms
+Average number of keypoints: 117.9
+Average number of matches: 100.889
+detectorType: HARRIS
+descriptorType: ORB
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 115 keypoints with applied nms in 11.6223 ms
+Number of keypoints in the defined vehicle rectangle: 17
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.54065 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 98 keypoints with applied nms in 9.64942 ms
+Number of keypoints in the defined vehicle rectangle: 14
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.60673 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=17 matches in 0.09994 ms
+# keypoints removed = 5
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 113 keypoints with applied nms in 9.77856 ms
+Number of keypoints in the defined vehicle rectangle: 18
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.60418 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=14 matches in 0.0522 ms
+# keypoints removed = 2
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 121 keypoints with applied nms in 9.8363 ms
+Number of keypoints in the defined vehicle rectangle: 21
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.63097 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=18 matches in 0.06424 ms
+# keypoints removed = 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 160 keypoints with applied nms in 10.0259 ms
+Number of keypoints in the defined vehicle rectangle: 26
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.60109 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=21 matches in 0.06836 ms
+# keypoints removed = 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 383 keypoints with applied nms in 16.9695 ms
+Number of keypoints in the defined vehicle rectangle: 43
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.64472 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=26 matches in 0.06955 ms
+# keypoints removed = 2
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 85 keypoints with applied nms in 9.5806 ms
+Number of keypoints in the defined vehicle rectangle: 18
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.635191 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=43 matches in 0.05764 ms
+# keypoints removed = 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 210 keypoints with applied nms in 10.6853 ms
+Number of keypoints in the defined vehicle rectangle: 31
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.50502 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=18 matches in 0.05306 ms
+# keypoints removed = 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 171 keypoints with applied nms in 7.69412 ms
+Number of keypoints in the defined vehicle rectangle: 26
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.50009 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=31 matches in 0.05908 ms
+# keypoints removed = 6
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 281 keypoints with applied nms in 22.5332 ms
+Number of keypoints in the defined vehicle rectangle: 34
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.51188 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=26 matches in 0.06497 ms
+# keypoints removed = 4
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 12.2801 ms
+Average time for descriptor: 0.604263 ms
+Average time for matcher: 0.0972589 ms
+Average number of keypoints: 24.8
+Average number of matches: 18.1111
+detectorType: FAST
+descriptorType: ORB
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1824 keypoints in 0.633559 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.920829 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1832 keypoints in 0.59319 ms
+Number of keypoints in the defined vehicle rectangle: 152
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.73214 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.2651 ms
+# keypoints removed = 29
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1810 keypoints in 0.667599 ms
+Number of keypoints in the defined vehicle rectangle: 150
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.653359 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=152 matches in 0.194479 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1817 keypoints in 0.58683 ms
+Number of keypoints in the defined vehicle rectangle: 155
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.64086 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=150 matches in 0.21287 ms
+# keypoints removed = 38
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1793 keypoints in 0.56876 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.623509 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=155 matches in 0.18934 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1796 keypoints in 0.58794 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.57936 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.19956 ms
+# keypoints removed = 41
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1788 keypoints in 0.570239 ms
+Number of keypoints in the defined vehicle rectangle: 156
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.60135 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.18822 ms
+# keypoints removed = 27
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1695 keypoints in 0.55844 ms
+Number of keypoints in the defined vehicle rectangle: 150
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.5941 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=156 matches in 0.19368 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1749 keypoints in 0.75356 ms
+Number of keypoints in the defined vehicle rectangle: 138
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.71575 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=150 matches in 0.195519 ms
+# keypoints removed = 27
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1770 keypoints in 0.62574 ms
+Number of keypoints in the defined vehicle rectangle: 143
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 0.62067 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=138 matches in 0.18114 ms
+# keypoints removed = 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 0.638424 ms
+Average time for descriptor: 0.685452 ms
+Average time for matcher: 0.262444 ms
+Average number of keypoints: 149.1
+Average number of matches: 119.889
+detectorType: BRISK
+descriptorType: ORB
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2757 keypoints in 32.1598 ms
+Number of keypoints in the defined vehicle rectangle: 264
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 4.45024 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2777 keypoints in 32.5985 ms
+Number of keypoints in the defined vehicle rectangle: 282
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.27672 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=264 matches in 0.39809 ms
+# keypoints removed = 101
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2741 keypoints in 41.8231 ms
+Number of keypoints in the defined vehicle rectangle: 282
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.22801 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=282 matches in 0.362969 ms
+# keypoints removed = 107
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2735 keypoints in 31.2721 ms
+Number of keypoints in the defined vehicle rectangle: 277
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.25777 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=282 matches in 0.37532 ms
+# keypoints removed = 121
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2757 keypoints in 42.8959 ms
+Number of keypoints in the defined vehicle rectangle: 297
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.22079 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=277 matches in 0.3821 ms
+# keypoints removed = 109
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2695 keypoints in 31.9978 ms
+Number of keypoints in the defined vehicle rectangle: 279
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.44559 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=297 matches in 0.3675 ms
+# keypoints removed = 136
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2715 keypoints in 40.6844 ms
+Number of keypoints in the defined vehicle rectangle: 289
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.13765 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=279 matches in 0.35973 ms
+# keypoints removed = 97
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2628 keypoints in 30.0324 ms
+Number of keypoints in the defined vehicle rectangle: 272
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.10237 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=289 matches in 0.32992 ms
+# keypoints removed = 120
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2639 keypoints in 31.5526 ms
+Number of keypoints in the defined vehicle rectangle: 266
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 11.2382 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=272 matches in 0.34337 ms
+# keypoints removed = 100
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2672 keypoints in 39.4355 ms
+Number of keypoints in the defined vehicle rectangle: 254
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.1174 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=266 matches in 0.31192 ms
+# keypoints removed = 93
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 331.41 ms
+Average time for descriptor: 4.1894 ms
+Average time for matcher: 0.455916 ms
+Average number of keypoints: 276.2
+Average number of matches: 169.333
+detectorType: ORB
+descriptorType: ORB
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 6.25789 ms
+Number of keypoints in the defined vehicle rectangle: 92
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.51754 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.44456 ms
+Number of keypoints in the defined vehicle rectangle: 102
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.28667 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=92 matches in 0.2529 ms
+# keypoints removed = 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.27176 ms
+Number of keypoints in the defined vehicle rectangle: 106
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.98122 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=102 matches in 0.17664 ms
+# keypoints removed = 31
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 4.90662 ms
+Number of keypoints in the defined vehicle rectangle: 113
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.04554 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=106 matches in 0.1714 ms
+# keypoints removed = 34
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.44276 ms
+Number of keypoints in the defined vehicle rectangle: 109
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.21636 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=113 matches in 0.18907 ms
+# keypoints removed = 29
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.14252 ms
+Number of keypoints in the defined vehicle rectangle: 125
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.0549 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=109 matches in 0.16806 ms
+# keypoints removed = 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.15069 ms
+Number of keypoints in the defined vehicle rectangle: 130
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.21864 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=125 matches in 0.1933 ms
+# keypoints removed = 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.03783 ms
+Number of keypoints in the defined vehicle rectangle: 129
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.04594 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=130 matches in 0.16886 ms
+# keypoints removed = 37
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.0819 ms
+Number of keypoints in the defined vehicle rectangle: 127
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.19758 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=129 matches in 0.1706 ms
+# keypoints removed = 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 61.404 ms
+Number of keypoints in the defined vehicle rectangle: 128
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.1559 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=127 matches in 0.1979 ms
+# keypoints removed = 34
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 10.9491 ms
+Average time for descriptor: 3.20119 ms
+Average time for matcher: 0.268723 ms
+Average number of keypoints: 116.1
+Average number of matches: 85.2222
+detectorType: SIFT
+descriptorType: ORB
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1438 keypoints in 96.6619 ms
+Number of keypoints in the defined vehicle rectangle: 138
+#2 : DETECT KEYPOINTS done
+detectorType: AKAZE
+descriptorType: ORB
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 147.952 ms
+Number of keypoints in the defined vehicle rectangle: 166
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.96707 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1327 keypoints in 272.621 ms
+Number of keypoints in the defined vehicle rectangle: 157
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.09645 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=166 matches in 0.2548 ms
+# keypoints removed = 35
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1311 keypoints in 191.23 ms
+Number of keypoints in the defined vehicle rectangle: 161
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.93857 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=157 matches in 0.23693 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 108.885 ms
+Number of keypoints in the defined vehicle rectangle: 155
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.87008 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=161 matches in 0.22042 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1360 keypoints in 117.966 ms
+Number of keypoints in the defined vehicle rectangle: 163
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 3.19487 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=155 matches in 0.20172 ms
+# keypoints removed = 37
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1347 keypoints in 211.943 ms
+Number of keypoints in the defined vehicle rectangle: 164
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.99238 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=163 matches in 0.22579 ms
+# keypoints removed = 32
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1363 keypoints in 193.961 ms
+Number of keypoints in the defined vehicle rectangle: 173
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 2.01984 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=164 matches in 0.22155 ms
+# keypoints removed = 32
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 191.411 ms
+Number of keypoints in the defined vehicle rectangle: 175
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.89677 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=173 matches in 0.209589 ms
+# keypoints removed = 35
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1357 keypoints in 210.048 ms
+Number of keypoints in the defined vehicle rectangle: 177
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.86625 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=175 matches in 0.22473 ms
+# keypoints removed = 40
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 192.994 ms
+Number of keypoints in the defined vehicle rectangle: 179
+#2 : DETECT KEYPOINTS done
+ORB descriptor extraction in 1.92105 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=177 matches in 0.21765 ms
+# keypoints removed = 31
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 183.967 ms
+Average time for descriptor: 2.3077 ms
+Average time for matcher: 0.295042 ms
+Average number of keypoints: 167
+Average number of matches: 132
+detectorType: SHITOMASI
+descriptorType: FREAK
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 12.4001 ms
+Number of keypoints in the defined vehicle rectangle: 125
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 23.6326 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 9.92114 ms
+Number of keypoints in the defined vehicle rectangle: 118
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.6019 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=125 matches in 0.32301 ms
+# keypoints removed = 39
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 7.32408 ms
+Number of keypoints in the defined vehicle rectangle: 123
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.2861 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=118 matches in 0.20331 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 7.30035 ms
+Number of keypoints in the defined vehicle rectangle: 120
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.7316 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=123 matches in 0.22531 ms
+# keypoints removed = 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 7.07695 ms
+Number of keypoints in the defined vehicle rectangle: 120
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.5487 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=120 matches in 0.21001 ms
+# keypoints removed = 32
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 6.75664 ms
+Number of keypoints in the defined vehicle rectangle: 113
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.3913 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=120 matches in 0.1856 ms
+# keypoints removed = 34
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 6.78582 ms
+Number of keypoints in the defined vehicle rectangle: 114
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 44.6241 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=113 matches in 0.212 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 6.99748 ms
+Number of keypoints in the defined vehicle rectangle: 123
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.5157 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=114 matches in 0.21363 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 6.91356 ms
+Number of keypoints in the defined vehicle rectangle: 111
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 35.1006 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=123 matches in 0.218271 ms
+# keypoints removed = 36
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 7.2991 ms
+Number of keypoints in the defined vehicle rectangle: 112
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.8517 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=111 matches in 0.197871 ms
+# keypoints removed = 26
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 7.90838 ms
+Average time for descriptor: 28.2097 ms
+Average time for matcher: 0.286177 ms
+Average number of keypoints: 117.9
+Average number of matches: 85.5556
+detectorType: HARRIS
+descriptorType: FREAK
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 115 keypoints with applied nms in 12.0344 ms
+Number of keypoints in the defined vehicle rectangle: 17
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.6648 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 98 keypoints with applied nms in 9.55656 ms
+Number of keypoints in the defined vehicle rectangle: 14
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.2033 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=17 matches in 0.11716 ms
+# keypoints removed = 4
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 113 keypoints with applied nms in 7.03022 ms
+Number of keypoints in the defined vehicle rectangle: 18
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 20.9543 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=14 matches in 0.04845 ms
+# keypoints removed = 1
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 121 keypoints with applied nms in 7.05637 ms
+Number of keypoints in the defined vehicle rectangle: 21
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 20.8915 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=18 matches in 0.04963 ms
+# keypoints removed = 3
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 160 keypoints with applied nms in 7.43234 ms
+Number of keypoints in the defined vehicle rectangle: 26
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 20.954 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=21 matches in 0.05105 ms
+# keypoints removed = 6
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 383 keypoints with applied nms in 14.3907 ms
+Number of keypoints in the defined vehicle rectangle: 43
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.0948 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=26 matches in 0.0776 ms
+# keypoints removed = 9
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 85 keypoints with applied nms in 6.8195 ms
+Number of keypoints in the defined vehicle rectangle: 18
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 31.2915 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=43 matches in 0.05726 ms
+# keypoints removed = 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 210 keypoints with applied nms in 8.17197 ms
+Number of keypoints in the defined vehicle rectangle: 31
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 20.9177 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=18 matches in 0.0504 ms
+# keypoints removed = 6
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 171 keypoints with applied nms in 7.4167 ms
+Number of keypoints in the defined vehicle rectangle: 26
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 20.916 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=31 matches in 0.05514 ms
+# keypoints removed = 10
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 281 keypoints with applied nms in 17.452 ms
+Number of keypoints in the defined vehicle rectangle: 34
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.7202 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=26 matches in 0.06575 ms
+# keypoints removed = 7
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 9.77562 ms
+Average time for descriptor: 22.3306 ms
+Average time for matcher: 0.0950599 ms
+Average number of keypoints: 24.8
+Average number of matches: 16.1111
+detectorType: FAST
+descriptorType: FREAK
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1824 keypoints in 1.04088 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 26.04 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1832 keypoints in 0.66437 ms
+Number of keypoints in the defined vehicle rectangle: 152
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 24.3955 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.31504 ms
+# keypoints removed = 51
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1810 keypoints in 0.61621 ms
+Number of keypoints in the defined vehicle rectangle: 150
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.2192 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=152 matches in 0.24043 ms
+# keypoints removed = 52
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1817 keypoints in 0.61722 ms
+Number of keypoints in the defined vehicle rectangle: 155
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.4891 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=150 matches in 0.267 ms
+# keypoints removed = 59
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1793 keypoints in 0.59047 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 30.3271 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=155 matches in 0.28769 ms
+# keypoints removed = 57
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1796 keypoints in 0.57788 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.8672 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.26762 ms
+# keypoints removed = 63
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1788 keypoints in 0.64368 ms
+Number of keypoints in the defined vehicle rectangle: 156
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.9121 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.25184 ms
+# keypoints removed = 50
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1695 keypoints in 0.59181 ms
+Number of keypoints in the defined vehicle rectangle: 150
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 36.4395 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=156 matches in 0.29375 ms
+# keypoints removed = 53
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1749 keypoints in 0.591409 ms
+Number of keypoints in the defined vehicle rectangle: 138
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.5424 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=150 matches in 0.22134 ms
+# keypoints removed = 49
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1770 keypoints in 0.5771 ms
+Number of keypoints in the defined vehicle rectangle: 143
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.1037 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=138 matches in 0.240779 ms
+# keypoints removed = 33
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 0.680241 ms
+Average time for descriptor: 25.1365 ms
+Average time for matcher: 0.334977 ms
+Average number of keypoints: 149.1
+Average number of matches: 97.8889
+detectorType: BRISK
+descriptorType: FREAK
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2757 keypoints in 32.915 ms
+Number of keypoints in the defined vehicle rectangle: 264
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 25.2588 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2777 keypoints in 37.2834 ms
+Number of keypoints in the defined vehicle rectangle: 282
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 24.6628 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=242 matches in 0.52127 ms
+# keypoints removed = 81
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2741 keypoints in 34.1425 ms
+Number of keypoints in the defined vehicle rectangle: 282
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 36.0988 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=260 matches in 0.44556 ms
+# keypoints removed = 82
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2735 keypoints in 33.3003 ms
+Number of keypoints in the defined vehicle rectangle: 277
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 24.3897 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=263 matches in 0.49215 ms
+# keypoints removed = 108
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2757 keypoints in 37.7934 ms
+Number of keypoints in the defined vehicle rectangle: 297
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 23.5903 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=264 matches in 0.563019 ms
+# keypoints removed = 90
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2695 keypoints in 31.3179 ms
+Number of keypoints in the defined vehicle rectangle: 279
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 30.015 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=274 matches in 0.51029 ms
+# keypoints removed = 113
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2715 keypoints in 37.5657 ms
+Number of keypoints in the defined vehicle rectangle: 289
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.8874 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=256 matches in 0.4571 ms
+# keypoints removed = 73
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2628 keypoints in 31.1258 ms
+Number of keypoints in the defined vehicle rectangle: 272
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.9424 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=269 matches in 0.47929 ms
+# keypoints removed = 100
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2639 keypoints in 42.1123 ms
+Number of keypoints in the defined vehicle rectangle: 266
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.5544 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=255 matches in 0.49591 ms
+# keypoints removed = 77
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2672 keypoints in 31.2365 ms
+Number of keypoints in the defined vehicle rectangle: 254
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 34.9478 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=243 matches in 0.42914 ms
+# keypoints removed = 75
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 330.565 ms
+Average time for descriptor: 26.8402 ms
+Average time for matcher: 0.581371 ms
+Average number of keypoints: 276.2
+Average number of matches: 169.667
+detectorType: ORB
+descriptorType: FREAK
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 6.26309 ms
+Number of keypoints in the defined vehicle rectangle: 92
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 24.7934 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 6.76237 ms
+Number of keypoints in the defined vehicle rectangle: 102
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 27.9935 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=46 matches in 0.19724 ms
+# keypoints removed = 4
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.13931 ms
+Number of keypoints in the defined vehicle rectangle: 106
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.9596 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=53 matches in 0.11855 ms
+# keypoints removed = 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.31506 ms
+Number of keypoints in the defined vehicle rectangle: 113
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.848 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=56 matches in 0.126591 ms
+# keypoints removed = 12
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 25.873 ms
+Number of keypoints in the defined vehicle rectangle: 109
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 25.8625 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=65 matches in 0.13486 ms
+# keypoints removed = 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.19268 ms
+Number of keypoints in the defined vehicle rectangle: 125
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 23.8411 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=55 matches in 0.11697 ms
+# keypoints removed = 11
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.153 ms
+Number of keypoints in the defined vehicle rectangle: 130
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 47.3009 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=64 matches in 0.14865 ms
+# keypoints removed = 13
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.05472 ms
+Number of keypoints in the defined vehicle rectangle: 129
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.5708 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=66 matches in 0.140389 ms
+# keypoints removed = 14
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.12811 ms
+Number of keypoints in the defined vehicle rectangle: 127
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 41.0649 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=71 matches in 0.21138 ms
+# keypoints removed = 23
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.19368 ms
+Number of keypoints in the defined vehicle rectangle: 128
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.7489 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=73 matches in 0.1973 ms
+# keypoints removed = 17
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 7.55246 ms
+Average time for descriptor: 27.9029 ms
+Average time for matcher: 0.199121 ms
+Average number of keypoints: 116.1
+Average number of matches: 46.6667
+detectorType: SIFT
+descriptorType: FREAK
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1438 keypoints in 153.894 ms
+Number of keypoints in the defined vehicle rectangle: 138
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 93.3965 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1371 keypoints in 94.6493 ms
+Number of keypoints in the defined vehicle rectangle: 132
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 100.031 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=137 matches in 0.38155 ms
+# keypoints removed = 71
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1380 keypoints in 180.567 ms
+Number of keypoints in the defined vehicle rectangle: 124
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.0724 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=131 matches in 0.3389 ms
+# keypoints removed = 58
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1335 keypoints in 84.6902 ms
+Number of keypoints in the defined vehicle rectangle: 137
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 102.553 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=123 matches in 0.27827 ms
+# keypoints removed = 59
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1305 keypoints in 167.087 ms
+Number of keypoints in the defined vehicle rectangle: 134
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 23.1496 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=136 matches in 0.26329 ms
+# keypoints removed = 70
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1370 keypoints in 166.597 ms
+Number of keypoints in the defined vehicle rectangle: 140
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.4549 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=133 matches in 0.28816 ms
+# keypoints removed = 73
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1396 keypoints in 166.591 ms
+Number of keypoints in the defined vehicle rectangle: 137
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 21.9715 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=139 matches in 0.276869 ms
+# keypoints removed = 80
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1382 keypoints in 101.426 ms
+Number of keypoints in the defined vehicle rectangle: 148
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 100.322 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=135 matches in 0.35362 ms
+# keypoints removed = 71
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1463 keypoints in 97.0655 ms
+Number of keypoints in the defined vehicle rectangle: 159
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 100.132 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=147 matches in 0.293709 ms
+# keypoints removed = 82
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1422 keypoints in 81.5926 ms
+Number of keypoints in the defined vehicle rectangle: 137
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 113.275 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=158 matches in 0.33844 ms
+# keypoints removed = 79
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 129.491 ms
+Average time for descriptor: 69.9958 ms
+Average time for matcher: 0.383679 ms
+Average number of keypoints: 138.6
+Average number of matches: 66.2222
+detectorType: AKAZE
+descriptorType: FREAK
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 256.269 ms
+Number of keypoints in the defined vehicle rectangle: 166
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.1697 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1327 keypoints in 269.122 ms
+Number of keypoints in the defined vehicle rectangle: 157
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.8097 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=166 matches in 0.363761 ms
+# keypoints removed = 39
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1311 keypoints in 276.139 ms
+Number of keypoints in the defined vehicle rectangle: 161
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 25.0685 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=157 matches in 0.415979 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 216.508 ms
+Number of keypoints in the defined vehicle rectangle: 155
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 27.0553 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=161 matches in 0.31569 ms
+# keypoints removed = 34
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1360 keypoints in 212.656 ms
+Number of keypoints in the defined vehicle rectangle: 163
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.5 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=155 matches in 0.29944 ms
+# keypoints removed = 32
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1347 keypoints in 267.21 ms
+Number of keypoints in the defined vehicle rectangle: 164
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 24.0196 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=163 matches in 0.28667 ms
+# keypoints removed = 40
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1363 keypoints in 181.15 ms
+Number of keypoints in the defined vehicle rectangle: 173
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 23.3264 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=164 matches in 0.34293 ms
+# keypoints removed = 30
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 216.137 ms
+Number of keypoints in the defined vehicle rectangle: 175
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 23.2805 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=173 matches in 0.38536 ms
+# keypoints removed = 29
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1357 keypoints in 172.173 ms
+Number of keypoints in the defined vehicle rectangle: 177
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.8588 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=175 matches in 58.4691 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 212.778 ms
+Number of keypoints in the defined vehicle rectangle: 179
+#2 : DETECT KEYPOINTS done
+FREAK descriptor extraction in 22.855 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=177 matches in 0.44792 ms
+# keypoints removed = 39
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 228.122 ms
+Average time for descriptor: 23.9338 ms
+Average time for matcher: 6.92365 ms
+Average number of keypoints: 167
+Average number of matches: 132.444
+detectorType: SHITOMASI
+descriptorType: SIFT
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 14.422 ms
+Number of keypoints in the defined vehicle rectangle: 125
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 12.8516 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1301 keypoints in 8.06345 ms
+Number of keypoints in the defined vehicle rectangle: 118
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 41.4805 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=125 matches in 0.33996 ms
+# keypoints removed = 52
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1361 keypoints in 13.3825 ms
+Number of keypoints in the defined vehicle rectangle: 123
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.1099 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=118 matches in 0.24929 ms
+# keypoints removed = 48
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1358 keypoints in 12.4687 ms
+Number of keypoints in the defined vehicle rectangle: 120
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 49.021 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=123 matches in 0.21948 ms
+# keypoints removed = 58
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1333 keypoints in 12.3181 ms
+Number of keypoints in the defined vehicle rectangle: 120
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 13.1441 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=120 matches in 0.190649 ms
+# keypoints removed = 48
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1284 keypoints in 13.4467 ms
+Number of keypoints in the defined vehicle rectangle: 113
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 48.3718 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=120 matches in 0.20935 ms
+# keypoints removed = 58
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1322 keypoints in 12.0747 ms
+Number of keypoints in the defined vehicle rectangle: 114
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 12.8604 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=113 matches in 0.189879 ms
+# keypoints removed = 51
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1366 keypoints in 11.6152 ms
+Number of keypoints in the defined vehicle rectangle: 123
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 13.4016 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=114 matches in 0.17931 ms
+# keypoints removed = 40
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1389 keypoints in 17.3088 ms
+Number of keypoints in the defined vehicle rectangle: 111
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 17.6744 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=123 matches in 0.2214 ms
+# keypoints removed = 50
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1339 keypoints in 13.0696 ms
+Number of keypoints in the defined vehicle rectangle: 112
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 43.9694 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=111 matches in 0.22649 ms
+# keypoints removed = 40
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 12.9024 ms
+Average time for descriptor: 26.7823 ms
+Average time for matcher: 0.315585 ms
+Average number of keypoints: 117.9
+Average number of matches: 69.1111
+detectorType: HARRIS
+descriptorType: SIFT
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 115 keypoints with applied nms in 13.3315 ms
+Number of keypoints in the defined vehicle rectangle: 17
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 11.3227 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 98 keypoints with applied nms in 9.55678 ms
+Number of keypoints in the defined vehicle rectangle: 14
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 8.48947 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=17 matches in 0.10572 ms
+# keypoints removed = 6
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 113 keypoints with applied nms in 21.7114 ms
+Number of keypoints in the defined vehicle rectangle: 18
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 11.905 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=14 matches in 0.04913 ms
+# keypoints removed = 4
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 121 keypoints with applied nms in 10.1654 ms
+Number of keypoints in the defined vehicle rectangle: 21
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 11.4524 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=18 matches in 0.05509 ms
+# keypoints removed = 6
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 160 keypoints with applied nms in 10.6116 ms
+Number of keypoints in the defined vehicle rectangle: 26
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 38.4155 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=21 matches in 0.07112 ms
+# keypoints removed = 7
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 383 keypoints with applied nms in 18.0066 ms
+Number of keypoints in the defined vehicle rectangle: 43
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 9.45954 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=26 matches in 0.064191 ms
+# keypoints removed = 9
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 85 keypoints with applied nms in 10.2451 ms
+Number of keypoints in the defined vehicle rectangle: 18
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 11.9283 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=43 matches in 0.06953 ms
+# keypoints removed = 29
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 210 keypoints with applied nms in 12.2816 ms
+Number of keypoints in the defined vehicle rectangle: 31
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 11.3701 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=18 matches in 0.05265 ms
+# keypoints removed = 7
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 171 keypoints with applied nms in 10.4876 ms
+Number of keypoints in the defined vehicle rectangle: 26
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 10.8172 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=31 matches in 0.060291 ms
+# keypoints removed = 11
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 281 keypoints with applied nms in 13.2852 ms
+Number of keypoints in the defined vehicle rectangle: 34
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 34.2988 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=26 matches in 0.057139 ms
+# keypoints removed = 7
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 13.5362 ms
+Average time for descriptor: 15.9916 ms
+Average time for matcher: 0.257797 ms
+Average number of keypoints: 24.8
+Average number of matches: 14.2222
+detectorType: FAST
+descriptorType: SIFT
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1824 keypoints in 0.70572 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 16.9064 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1832 keypoints in 0.59945 ms
+Number of keypoints in the defined vehicle rectangle: 152
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 47.0177 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.34874 ms
+# keypoints removed = 67
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1810 keypoints in 0.56502 ms
+Number of keypoints in the defined vehicle rectangle: 150
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 17.8339 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=152 matches in 0.24081 ms
+# keypoints removed = 68
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1817 keypoints in 0.59847 ms
+Number of keypoints in the defined vehicle rectangle: 155
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 69.9592 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=150 matches in 0.30133 ms
+# keypoints removed = 83
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1793 keypoints in 0.58516 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 12.9174 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=155 matches in 0.20732 ms
+# keypoints removed = 74
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1796 keypoints in 0.59984 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 75.038 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.27711 ms
+# keypoints removed = 77
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1788 keypoints in 0.56625 ms
+Number of keypoints in the defined vehicle rectangle: 156
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 14.1058 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=149 matches in 0.21482 ms
+# keypoints removed = 66
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1695 keypoints in 0.572981 ms
+Number of keypoints in the defined vehicle rectangle: 150
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 73.283 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=156 matches in 0.2831 ms
+# keypoints removed = 66
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1749 keypoints in 0.63024 ms
+Number of keypoints in the defined vehicle rectangle: 138
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 17.2731 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=150 matches in 0.29437 ms
+# keypoints removed = 64
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1770 keypoints in 0.566169 ms
+Number of keypoints in the defined vehicle rectangle: 143
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 69.442 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=138 matches in 0.28415 ms
+# keypoints removed = 52
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 0.625548 ms
+Average time for descriptor: 41.4346 ms
+Average time for matcher: 0.360946 ms
+Average number of keypoints: 149.1
+Average number of matches: 81.2222
+detectorType: BRISK
+descriptorType: SIFT
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2757 keypoints in 34.4372 ms
+Number of keypoints in the defined vehicle rectangle: 264
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 59.8592 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2777 keypoints in 30.9398 ms
+Number of keypoints in the defined vehicle rectangle: 282
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 36.546 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=264 matches in 0.4284 ms
+# keypoints removed = 193
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2741 keypoints in 33.1897 ms
+Number of keypoints in the defined vehicle rectangle: 282
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 35.9703 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=282 matches in 0.44278 ms
+# keypoints removed = 207
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2735 keypoints in 37.0694 ms
+Number of keypoints in the defined vehicle rectangle: 277
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 93.3973 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=282 matches in 0.54253 ms
+# keypoints removed = 216
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2757 keypoints in 39.0984 ms
+Number of keypoints in the defined vehicle rectangle: 297
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 78.4511 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=277 matches in 0.45202 ms
+# keypoints removed = 216
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2695 keypoints in 35.8922 ms
+Number of keypoints in the defined vehicle rectangle: 279
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 73.1675 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=297 matches in 0.44862 ms
+# keypoints removed = 248
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2715 keypoints in 32.8323 ms
+Number of keypoints in the defined vehicle rectangle: 289
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 66.3059 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=279 matches in 0.42043 ms
+# keypoints removed = 195
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2628 keypoints in 31.4418 ms
+Number of keypoints in the defined vehicle rectangle: 272
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 54.1382 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=289 matches in 0.41833 ms
+# keypoints removed = 220
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2639 keypoints in 31.027 ms
+Number of keypoints in the defined vehicle rectangle: 266
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 56.6106 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=272 matches in 0.38399 ms
+# keypoints removed = 206
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2672 keypoints in 31.4247 ms
+Number of keypoints in the defined vehicle rectangle: 254
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 53.0822 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=266 matches in 0.36333 ms
+# keypoints removed = 191
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 340.512 ms
+Average time for descriptor: 60.8234 ms
+Average time for matcher: 0.538014 ms
+Average number of keypoints: 276.2
+Average number of matches: 68.4444
+detectorType: ORB
+descriptorType: SIFT
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 6.2348 ms
+Number of keypoints in the defined vehicle rectangle: 92
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 70.4051 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.15436 ms
+Number of keypoints in the defined vehicle rectangle: 102
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 88.601 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=92 matches in 0.24889 ms
+# keypoints removed = 50
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.2366 ms
+Number of keypoints in the defined vehicle rectangle: 106
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 91.1938 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=102 matches in 0.22492 ms
+# keypoints removed = 57
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.14834 ms
+Number of keypoints in the defined vehicle rectangle: 113
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 93.2118 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=106 matches in 0.19523 ms
+# keypoints removed = 72
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 86.9484 ms
+Number of keypoints in the defined vehicle rectangle: 109
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 98.4849 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=113 matches in 0.275721 ms
+# keypoints removed = 65
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.25068 ms
+Number of keypoints in the defined vehicle rectangle: 125
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 90.0531 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=109 matches in 0.23595 ms
+# keypoints removed = 64
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.14463 ms
+Number of keypoints in the defined vehicle rectangle: 130
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 88.8846 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=125 matches in 0.23785 ms
+# keypoints removed = 71
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.04306 ms
+Number of keypoints in the defined vehicle rectangle: 129
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 89.7541 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=130 matches in 0.25264 ms
+# keypoints removed = 76
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.08574 ms
+Number of keypoints in the defined vehicle rectangle: 127
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 90.7683 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=129 matches in 0.20716 ms
+# keypoints removed = 78
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 5.24434 ms
+Number of keypoints in the defined vehicle rectangle: 128
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 183.692 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=127 matches in 0.322341 ms
+# keypoints removed = 72
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 13.4857 ms
+Average time for descriptor: 98.5743 ms
+Average time for matcher: 0.33732 ms
+Average number of keypoints: 116.1
+Average number of matches: 47.5556
+detectorType: SIFT
+descriptorType: SIFT
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1438 keypoints in 179.039 ms
+Number of keypoints in the defined vehicle rectangle: 138
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 97.3423 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1371 keypoints in 103.269 ms
+Number of keypoints in the defined vehicle rectangle: 132
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 122.642 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=138 matches in 0.2738 ms
+# keypoints removed = 93
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1380 keypoints in 157.859 ms
+Number of keypoints in the defined vehicle rectangle: 124
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 100.096 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=132 matches in 0.22954 ms
+# keypoints removed = 84
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1335 keypoints in 97.1459 ms
+Number of keypoints in the defined vehicle rectangle: 137
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 130.597 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=124 matches in 0.220751 ms
+# keypoints removed = 71
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1305 keypoints in 159.503 ms
+Number of keypoints in the defined vehicle rectangle: 134
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 99.6043 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=137 matches in 0.23626 ms
+# keypoints removed = 80
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1370 keypoints in 187.843 ms
+Number of keypoints in the defined vehicle rectangle: 140
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 40.3812 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=134 matches in 0.22675 ms
+# keypoints removed = 81
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1396 keypoints in 156.59 ms
+Number of keypoints in the defined vehicle rectangle: 137
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 137.848 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=140 matches in 0.23373 ms
+# keypoints removed = 95
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1382 keypoints in 151.19 ms
+Number of keypoints in the defined vehicle rectangle: 148
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 107.453 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=137 matches in 0.247639 ms
+# keypoints removed = 95
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1463 keypoints in 103.116 ms
+Number of keypoints in the defined vehicle rectangle: 159
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 119.973 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=148 matches in 0.254571 ms
+# keypoints removed = 84
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1422 keypoints in 158.478 ms
+Number of keypoints in the defined vehicle rectangle: 137
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 101.749 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=159 matches in 0.23544 ms
+# keypoints removed = 97
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 145.484 ms
+Average time for descriptor: 105.845 ms
+Average time for matcher: 0.312337 ms
+Average number of keypoints: 138.6
+Average number of matches: 52.1111
+detectorType: AKAZE
+descriptorType: SIFT
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 178.646 ms
+Number of keypoints in the defined vehicle rectangle: 166
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 77.9659 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1327 keypoints in 214.18 ms
+Number of keypoints in the defined vehicle rectangle: 157
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 78.6003 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=166 matches in 0.34757 ms
+# keypoints removed = 72
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1311 keypoints in 212.002 ms
+Number of keypoints in the defined vehicle rectangle: 161
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 81.1061 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=157 matches in 0.28232 ms
+# keypoints removed = 62
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 204.861 ms
+Number of keypoints in the defined vehicle rectangle: 155
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 11.9609 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=161 matches in 0.22466 ms
+# keypoints removed = 73
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1360 keypoints in 193.499 ms
+Number of keypoints in the defined vehicle rectangle: 163
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 81.9543 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=155 matches in 0.282229 ms
+# keypoints removed = 69
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1347 keypoints in 206.766 ms
+Number of keypoints in the defined vehicle rectangle: 164
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 81.6179 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=163 matches in 0.270919 ms
+# keypoints removed = 77
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1363 keypoints in 214.355 ms
+Number of keypoints in the defined vehicle rectangle: 173
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 12.8179 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=164 matches in 0.303779 ms
+# keypoints removed = 64
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 271.111 ms
+Number of keypoints in the defined vehicle rectangle: 175
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 17.0708 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=173 matches in 0.252169 ms
+# keypoints removed = 72
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1357 keypoints in 185.253 ms
+Number of keypoints in the defined vehicle rectangle: 177
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 80.1264 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=175 matches in 0.29358 ms
+# keypoints removed = 58
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 114.262 ms
+Number of keypoints in the defined vehicle rectangle: 179
+#2 : DETECT KEYPOINTS done
+SIFT descriptor extraction in 85.7753 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=177 matches in 0.23671 ms
+# keypoints removed = 63
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 199.565 ms
+Average time for descriptor: 60.9686 ms
+Average time for matcher: 0.458208 ms
+Average number of keypoints: 167
+Average number of matches: 97.8889
+detectorType: SHITOMASI
+descriptorType: AKAZE
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+Shi-Tomasi detection with n=1370 keypoints in 13.0722 ms
+Number of keypoints in the defined vehicle rectangle: 125
+#2 : DETECT KEYPOINTS done
+detectorType: HARRIS
+descriptorType: AKAZE
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+HARRIS detected 115 keypoints with applied nms in 12.1912 ms
+Number of keypoints in the defined vehicle rectangle: 17
+#2 : DETECT KEYPOINTS done
+detectorType: FAST
+descriptorType: AKAZE
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+FAST detector detected 1824 keypoints in 0.78165 ms
+Number of keypoints in the defined vehicle rectangle: 149
+#2 : DETECT KEYPOINTS done
+detectorType: BRISK
+descriptorType: AKAZE
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+BRISK detector detected 2757 keypoints in 33.6669 ms
+Number of keypoints in the defined vehicle rectangle: 264
+#2 : DETECT KEYPOINTS done
+detectorType: ORB
+descriptorType: AKAZE
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+ORB detector detected 500 keypoints in 6.31941 ms
+Number of keypoints in the defined vehicle rectangle: 92
+#2 : DETECT KEYPOINTS done
+detectorType: SIFT
+descriptorType: AKAZE
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_HOG
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+SIFT detector detected 1438 keypoints in 198.139 ms
+Number of keypoints in the defined vehicle rectangle: 138
+#2 : DETECT KEYPOINTS done
+detectorType: AKAZE
+descriptorType: AKAZE
+matcherType: MAT_BF
+descriptorType_BIN_HOG: DES_BINARY
+selectorType: SEL_KNN
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 161.385 ms
+Number of keypoints in the defined vehicle rectangle: 166
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 196.82 ms
+#3 : EXTRACT DESCRIPTORS done
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1327 keypoints in 220.563 ms
+Number of keypoints in the defined vehicle rectangle: 157
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 282.426 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=166 matches in 0.35162 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1311 keypoints in 206.94 ms
+Number of keypoints in the defined vehicle rectangle: 161
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 196.223 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=157 matches in 0.2925 ms
+# keypoints removed = 19
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1351 keypoints in 293.986 ms
+Number of keypoints in the defined vehicle rectangle: 155
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 197.883 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=161 matches in 0.2824 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1360 keypoints in 202.835 ms
+Number of keypoints in the defined vehicle rectangle: 163
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 282.907 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=155 matches in 0.29277 ms
+# keypoints removed = 28
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1347 keypoints in 205.891 ms
+Number of keypoints in the defined vehicle rectangle: 164
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 195.368 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=163 matches in 0.25026 ms
+# keypoints removed = 34
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1363 keypoints in 280.194 ms
+Number of keypoints in the defined vehicle rectangle: 173
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 200.719 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=164 matches in 0.36814 ms
+# keypoints removed = 18
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 209.453 ms
+Number of keypoints in the defined vehicle rectangle: 175
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 195.732 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=173 matches in 0.365601 ms
+# keypoints removed = 26
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1357 keypoints in 217.729 ms
+Number of keypoints in the defined vehicle rectangle: 177
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 193.013 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=175 matches in 0.28203 ms
+# keypoints removed = 24
+#4 : MATCH KEYPOINT DESCRIPTORS done
+Buffer is full, removing the first element
+Adding new frame to the buffer
+#1 : LOAD IMAGE INTO BUFFER done
+AKAZE detector detected 1331 keypoints in 296.45 ms
+Number of keypoints in the defined vehicle rectangle: 179
+#2 : DETECT KEYPOINTS done
+AKAZE descriptor extraction in 203.507 ms
+#3 : EXTRACT DESCRIPTORS done
+BF matching cross-check=0 (KNN) with n=177 matches in 0.40899 ms
+# keypoints removed = 27
+#4 : MATCH KEYPOINT DESCRIPTORS done
+--------------------------------------------------
+Average time for detector: 229.632 ms
+Average time for descriptor: 214.54 ms
+Average time for matcher: 0.418157 ms
+Average number of keypoints: 167
+Average number of matches: 139.889

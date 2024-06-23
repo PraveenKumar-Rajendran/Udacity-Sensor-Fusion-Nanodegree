@@ -1,0 +1,4 @@
+[ 25%] Building CXX object CMakeFiles/environment.dir/src/environment.cpp.o
+CMakeFiles/environment.dir/build.make:62: recipe for target 'CMakeFiles/environment.dir/src/environment.cpp.o' failed
+CMakeFiles/Makefile2:72: recipe for target 'CMakeFiles/environment.dir/all' failed
+Makefile:83: recipe for target 'all' failed

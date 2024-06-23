@@ -1,0 +1,11 @@
+# Ignore all .bin&.pcd files
+*.bin
+*.pcd
+
+# Ignore all .bin files
+*.weights
+
+# Ignore all CMakeFiles directories
+**/CMakeFiles/
+
+# Ignore the specific directory
