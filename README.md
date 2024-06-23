@@ -3,7 +3,7 @@
 ## Projects
 
 ### 01. SFND Lidar Obstacle Detection
-![Obstacle Detection](https://github.com/awbrown90/SensorFusionHighway/blob/master/media/ObstacleDetectionFPS.gif)
+![Obstacle Detection](https://video.udacity-data.com/topher/2019/March/5c8599e3_obstacledetectionfps/obstacledetectionfps.gif)
 <details>
   <summary>Description</summary>
     Implementation of custom RANSAC, KD-Tree, and Euclidean clustering algorithms as part of the processing pipeline for Lidar obstacle detection.
