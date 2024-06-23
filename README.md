@@ -1,4 +1,4 @@
-# Udacity Nanodegree Program Projects
+# Udacity Sensor Fusion Nanodegree Program Projects
 
 ## Projects
 
@@ -45,3 +45,8 @@
   <summary>Description</summary>
   The simulation collects the position and velocity values output by the algorithm and compares them to the ground truth data. The px, py, vx, and vy RMSE values have been implemented to be less than or equal to [0.30, 0.16, 0.95, 0.70] after the simulator runs for more than 1 second. The simulator also displays if the RMSE values exceed the threshold.
 </details>
+
+
+## Udacity - Graduation Certificate
+
+![Obstacle Detection](assets/SensorFusion-Nanodegree.png)
